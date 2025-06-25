@@ -15,7 +15,7 @@ const app: Application = express();
 app.use(
   cors({
     origin: [
-      "https://nasa-explorer-c9y1worfj-harshs-projects-a5c8e56e.vercel.app",
+      "https://nasa-explorer-nine.vercel.app",
       "http://localhost:5173",
     ],
   })
